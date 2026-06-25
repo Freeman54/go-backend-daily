@@ -4,3 +4,4 @@
 ## 目录
 
 - [2026-06-25 用 context 控制并发任务的超时与取消](daily/2026/06/25/context_timeout)
+- [2026-06-25 后端错误分类与 HTTP 状态码映射](daily/2026/06/25/error_taxonomy)
