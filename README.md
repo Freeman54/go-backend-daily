@@ -10,3 +10,8 @@
 - [2026-06-26 用白名单构建局部更新 SQL](daily/2026/06/26/sql_patch_builder)
 - [2026-06-26 用 singleflight 思路避免缓存击穿](daily/2026/06/26/cache_singleflight)
 - [2026-06-26 用断路器隔离不稳定下游](daily/2026/06/26/circuit_breaker)
+- [2026-06-29 用信号量做接口并发准入控制](daily/2026/06/29/semaphore_admission)
+- [2026-06-29 用可重试错误和退避策略保护下游](daily/2026/06/29/retry_backoff)
+- [2026-06-29 用游标分页稳定返回大列表](daily/2026/06/29/cursor_pagination)
+- [2026-06-29 用事务 outbox 保证事件最终投递](daily/2026/06/29/transaction_outbox)
+- [2026-06-29 用优雅停机收敛后台任务](daily/2026/06/29/graceful_shutdown)
