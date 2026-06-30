@@ -15,3 +15,8 @@
 - [2026-06-29 用游标分页稳定返回大列表](daily/2026/06/29/cursor_pagination)
 - [2026-06-29 用事务 outbox 保证事件最终投递](daily/2026/06/29/transaction_outbox)
 - [2026-06-29 用优雅停机收敛后台任务](daily/2026/06/29/graceful_shutdown)
+- [2026-06-30 用令牌桶限制突发流量](daily/2026/06/30/token_bucket)
+- [2026-06-30 用超时预算拆分下游调用时间](daily/2026/06/30/timeout_budget)
+- [2026-06-30 用 stale-while-revalidate 保持缓存可用](daily/2026/06/30/stale_while_revalidate)
+- [2026-06-30 用 readiness gate 控制实例摘流与上线](daily/2026/06/30/readiness_gate)
+- [2026-06-30 用事务重试兜住串行化冲突](daily/2026/06/30/tx_retry)
