@@ -20,3 +20,8 @@
 - [2026-06-30 用 stale-while-revalidate 保持缓存可用](daily/2026/06/30/stale_while_revalidate)
 - [2026-06-30 用 readiness gate 控制实例摘流与上线](daily/2026/06/30/readiness_gate)
 - [2026-06-30 用事务重试兜住串行化冲突](daily/2026/06/30/tx_retry)
+- [2026-07-01 用 quorum 读取降低副本抖动影响](daily/2026/07/01/fanout_quorum)
+- [2026-07-01 用 cancel cause 向并发任务传播失败原因](daily/2026/07/01/cancel_cause_group)
+- [2026-07-01 用乐观锁避免并发写覆盖](daily/2026/07/01/optimistic_lock)
+- [2026-07-01 用重试与死信路由保护消息消费](daily/2026/07/01/dlq_router)
+- [2026-07-01 用滑动窗口统计延迟 SLO](daily/2026/07/01/latency_window)
