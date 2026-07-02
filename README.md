@@ -25,3 +25,8 @@
 - [2026-07-01 用乐观锁避免并发写覆盖](daily/2026/07/01/optimistic_lock)
 - [2026-07-01 用重试与死信路由保护消息消费](daily/2026/07/01/dlq_router)
 - [2026-07-01 用滑动窗口统计延迟 SLO](daily/2026/07/01/latency_window)
+- [2026-07-02 用 hedged request 降低尾延迟](daily/2026/07/02/hedged_request)
+- [2026-07-02 用 ETag 条件更新保护接口并发写](daily/2026/07/02/etag_precondition)
+- [2026-07-02 用 TTL 抖动分散缓存集中失效](daily/2026/07/02/ttl_jitter_cache)
+- [2026-07-02 用去重表实现消息消费幂等](daily/2026/07/02/consumer_dedup)
+- [2026-07-02 用 burn rate 判断错误预算告警](daily/2026/07/02/slo_burnrate)
