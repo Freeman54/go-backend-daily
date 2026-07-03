@@ -30,3 +30,8 @@
 - [2026-07-02 用 TTL 抖动分散缓存集中失效](daily/2026/07/02/ttl_jitter_cache)
 - [2026-07-02 用去重表实现消息消费幂等](daily/2026/07/02/consumer_dedup)
 - [2026-07-02 用 burn rate 判断错误预算告警](daily/2026/07/02/slo_burnrate)
+- [2026-07-03 用 negative cache 缓解缓存穿透](daily/2026/07/03/negative_cache)
+- [2026-07-03 用 fencing token 防止过期租约继续写入](daily/2026/07/03/fencing_token)
+- [2026-07-03 用批量重试计划拆分成功、重试和死信消息](daily/2026/07/03/batch_retry_plan)
+- [2026-07-03 用 saga compensation 兜住跨服务失败回滚](daily/2026/07/03/saga_compensation)
+- [2026-07-03 用分层 trace sampling 保住异常与慢请求](daily/2026/07/03/trace_sampler)
