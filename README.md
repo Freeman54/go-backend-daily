@@ -35,3 +35,8 @@
 - [2026-07-03 用批量重试计划拆分成功、重试和死信消息](daily/2026/07/03/batch_retry_plan)
 - [2026-07-03 用 saga compensation 兜住跨服务失败回滚](daily/2026/07/03/saga_compensation)
 - [2026-07-03 用分层 trace sampling 保住异常与慢请求](daily/2026/07/03/trace_sampler)
+- [2026-07-05 用 context handoff 预留尾部预算给下游和清理逻辑](daily/2026/07/05/context_handoff)
+- [2026-07-05 用 errors.Join 做并发错误聚合后的处置决策](daily/2026/07/05/error_join_policy)
+- [2026-07-05 用分片 map 缓解热点 key 的锁竞争](daily/2026/07/05/hot_key_sharding)
+- [2026-07-05 用副本延迟阈值保护读写一致性](daily/2026/07/05/replica_lag_guard)
+- [2026-07-05 用 offset tracker 安全提交乱序完成的消息消费位点](daily/2026/07/05/offset_tracker)
