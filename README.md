@@ -40,3 +40,8 @@
 - [2026-07-05 用分片 map 缓解热点 key 的锁竞争](daily/2026/07/05/hot_key_sharding)
 - [2026-07-05 用副本延迟阈值保护读写一致性](daily/2026/07/05/replica_lag_guard)
 - [2026-07-05 用 offset tracker 安全提交乱序完成的消息消费位点](daily/2026/07/05/offset_tracker)
+- [2026-07-06 用 bounded fanout 控制扇出并发与失败收敛](daily/2026/07/06/bounded_fanout)
+- [2026-07-06 用 HTTP Problem Details 稳定输出接口错误](daily/2026/07/06/http_problem_mapping)
+- [2026-07-06 用 savepoint 组织可嵌套的事务单元](daily/2026/07/06/savepoint_uow)
+- [2026-07-06 用 refresh ahead 在过期前主动预热缓存](daily/2026/07/06/refresh_ahead_cache)
+- [2026-07-06 用 lag autoscaler 按积压与吞吐估算消费者数量](daily/2026/07/06/lag_autoscaler)
