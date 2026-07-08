@@ -45,3 +45,8 @@
 - [2026-07-06 用 savepoint 组织可嵌套的事务单元](daily/2026/07/06/savepoint_uow)
 - [2026-07-06 用 refresh ahead 在过期前主动预热缓存](daily/2026/07/06/refresh_ahead_cache)
 - [2026-07-06 用 lag autoscaler 按积压与吞吐估算消费者数量](daily/2026/07/06/lag_autoscaler)
+- [2026-07-08 用 retry budget 限制失败风暴中的重试放大](daily/2026/07/08/retry_budget)
+- [2026-07-08 用 outlier ejector 暂时摘除连续失败节点](daily/2026/07/08/outlier_ejector)
+- [2026-07-08 用安全排序白名单构建列表接口 ORDER BY](daily/2026/07/08/safe_order_clause)
+- [2026-07-08 用连接池背压控制保护数据库](daily/2026/07/08/pool_backpressure)
+- [2026-07-08 用时间窗和 nonce 防御 webhook 重放](daily/2026/07/08/webhook_replay_window)
