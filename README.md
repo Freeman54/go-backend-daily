@@ -60,3 +60,8 @@
 - [2026-07-09 用事务死锁重试兜住数据库瞬时冲突](daily/2026/07/09/tx_deadlock_retry)
 - [2026-07-09 用版本化缓存键实现低成本批量失效](daily/2026/07/09/versioned_cache_keys)
 - [2026-07-09 用 visibility heartbeat 保护长耗时消息消费](daily/2026/07/09/visibility_heartbeat)
+- [2026-07-12 用 tenant fair queue 避免热点租户长期饿死其他请求](daily/2026/07/12/tenant_fair_queue)
+- [2026-07-12 用 write-through cache 保证缓存和主存写入顺序一致](daily/2026/07/12/cache_write_through)
+- [2026-07-12 用 retry classifier 避免把不可恢复错误也反复重试](daily/2026/07/12/retry_classifier)
+- [2026-07-12 用 health snapshot 把依赖状态聚合成可执行的就绪结论](daily/2026/07/12/health_snapshot)
+- [2026-07-12 用 batch flusher 把零散写请求合并成更稳定的批量落库](daily/2026/07/12/batch_flusher)
