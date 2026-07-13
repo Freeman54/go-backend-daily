@@ -65,3 +65,8 @@
 - [2026-07-12 用 retry classifier 避免把不可恢复错误也反复重试](daily/2026/07/12/retry_classifier)
 - [2026-07-12 用 health snapshot 把依赖状态聚合成可执行的就绪结论](daily/2026/07/12/health_snapshot)
 - [2026-07-12 用 batch flusher 把零散写请求合并成更稳定的批量落库](daily/2026/07/12/batch_flusher)
+- [2026-07-13 用稳定哈希做可回放的 canary 发布](daily/2026/07/13/canary_rollout)
+- [2026-07-13 用 transactional inbox 控制消息处理租约与重试](daily/2026/07/13/transactional_inbox)
+- [2026-07-13 用原子快照安全热更新运行时配置](daily/2026/07/13/config_snapshot)
+- [2026-07-13 用 fallback budget 限制降级结果的放大效应](daily/2026/07/13/fallback_budget)
+- [2026-07-13 用 audit chain 构建可校验的操作审计轨迹](daily/2026/07/13/audit_chain)
