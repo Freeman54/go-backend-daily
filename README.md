@@ -70,3 +70,8 @@
 - [2026-07-13 用原子快照安全热更新运行时配置](daily/2026/07/13/config_snapshot)
 - [2026-07-13 用 fallback budget 限制降级结果的放大效应](daily/2026/07/13/fallback_budget)
 - [2026-07-13 用 audit chain 构建可校验的操作审计轨迹](daily/2026/07/13/audit_chain)
+- [2026-07-14 用 context.AfterFunc 组织取消后的清理动作](daily/2026/07/14/context_afterfunc_cleanup)
+- [2026-07-14 按步骤拆分请求 deadline，避免下游吃光超时预算](daily/2026/07/14/deadline_partition)
+- [2026-07-14 批量消费时做部分 ACK，避免整批重试放大失败](daily/2026/07/14/partial_batch_ack)
+- [2026-07-14 读副本做会话黏性，减少跨副本抖动](daily/2026/07/14/replica_stickiness)
+- [2026-07-14 用 slow start limiter 控制恢复后的并发爬升](daily/2026/07/14/slow_start_limiter)
