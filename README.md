@@ -75,3 +75,8 @@
 - [2026-07-14 批量消费时做部分 ACK，避免整批重试放大失败](daily/2026/07/14/partial_batch_ack)
 - [2026-07-14 读副本做会话黏性，减少跨副本抖动](daily/2026/07/14/replica_stickiness)
 - [2026-07-14 用 slow start limiter 控制恢复后的并发爬升](daily/2026/07/14/slow_start_limiter)
+- [2026-07-15 用 per-key mutex 串行化同一资源的并发更新](daily/2026/07/15/per_key_mutex)
+- [2026-07-15 用请求指纹稳定识别幂等请求](daily/2026/07/15/idempotency_fingerprint)
+- [2026-07-15 用 admission window 避免一次性冷数据挤占缓存](daily/2026/07/15/cache_admission_window)
+- [2026-07-15 用 poison message tracker 尽早隔离必然失败的消息](daily/2026/07/15/poison_message_tracker)
+- [2026-07-15 用 span event limiter 控制热点路径的观测噪音](daily/2026/07/15/span_event_limiter)
