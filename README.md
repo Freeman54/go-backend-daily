@@ -80,3 +80,8 @@
 - [2026-07-15 用 admission window 避免一次性冷数据挤占缓存](daily/2026/07/15/cache_admission_window)
 - [2026-07-15 用 poison message tracker 尽早隔离必然失败的消息](daily/2026/07/15/poison_message_tracker)
 - [2026-07-15 用 span event limiter 控制热点路径的观测噪音](daily/2026/07/15/span_event_limiter)
+- [2026-07-16 用 actor mailbox 按资源串行化任务而不阻塞全局并发](daily/2026/07/16/actor_mailbox)
+- [2026-07-16 用 query shape hash 给 SQL 指标降基数](daily/2026/07/16/query_shape_hash)
+- [2026-07-16 用 tombstone 防止删除后的旧值重新写回缓存](daily/2026/07/16/cache_tombstone)
+- [2026-07-16 用 baggage allowlist 控制跨服务透传的上下文体积](daily/2026/07/16/baggage_allowlist)
+- [2026-07-16 用 dependency quorum 判断服务是否还能继续接流](daily/2026/07/16/dependency_quorum)
