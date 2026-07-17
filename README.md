@@ -85,3 +85,8 @@
 - [2026-07-16 用 tombstone 防止删除后的旧值重新写回缓存](daily/2026/07/16/cache_tombstone)
 - [2026-07-16 用 baggage allowlist 控制跨服务透传的上下文体积](daily/2026/07/16/baggage_allowlist)
 - [2026-07-16 用 dependency quorum 判断服务是否还能继续接流](daily/2026/07/16/dependency_quorum)
+- [2026-07-17 用 panic shield 把后台任务崩溃转成可观测错误](daily/2026/07/17/panic_shield)
+- [2026-07-17 用 set diff 生成关联表增删计划](daily/2026/07/17/sql_set_diff)
+- [2026-07-17 用 Retry-After hint 把限流恢复时间明确告诉客户端](daily/2026/07/17/retry_after_hint)
+- [2026-07-17 用时间窗去重降低重复指标和告警噪音](daily/2026/07/17/metric_window_dedup)
+- [2026-07-17 用 keyed retry jitter 打散消费者重试风暴](daily/2026/07/17/keyed_retry_jitter)
