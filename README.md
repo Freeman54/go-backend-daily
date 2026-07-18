@@ -90,3 +90,8 @@
 - [2026-07-17 用 Retry-After hint 把限流恢复时间明确告诉客户端](daily/2026/07/17/retry_after_hint)
 - [2026-07-17 用时间窗去重降低重复指标和告警噪音](daily/2026/07/17/metric_window_dedup)
 - [2026-07-17 用 keyed retry jitter 打散消费者重试风暴](daily/2026/07/17/keyed_retry_jitter)
+- [2026-07-18 用 priority admission 给高优请求预留并发名额](daily/2026/07/18/priority_admission)
+- [2026-07-18 用 context snapshot 把必要元数据安全交给异步任务](daily/2026/07/18/context_snapshot)
+- [2026-07-18 用 post-commit hooks 保证副作用只在事务成功后触发](daily/2026/07/18/post_commit_hooks)
+- [2026-07-18 用 write-behind queue 批量刷新缓存而不是同步写入](daily/2026/07/18/write_behind_cache)
+- [2026-07-18 用 delivery retry budget 避免单条坏消息无限消耗重试资源](daily/2026/07/18/delivery_retry_budget)
